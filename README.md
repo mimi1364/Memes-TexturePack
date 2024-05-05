@@ -1,7 +1,5 @@
 <h1 align="center">MEMES TEXTURE PACK!</h1>
 
-<h2>Its here!</h2>
-
 <h1>Installing instructions:</h1>
 
 <h3>1. Install the files as zip.</h3>
